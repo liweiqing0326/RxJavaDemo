@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/test5_btn1"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginTop="10dp"
+            android:text="all:满足条件" />
+
+        <Button
+            android:id="@+id/test5_btn2"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginTop="10dp"
+            android:text="all:不满足条件" />
+
+        <Button
+            android:id="@+id/test5_btn3"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginTop="10dp"
+            android:text="all:数据错误" />
+
+
+        <Button
+            android:id="@+id/test5_btn4"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginTop="10dp"
+            android:text="exists" />
+
+        <Button
+            android:id="@+id/test5_btn5"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginTop="10dp"
+            android:text="isEmpty" />
+
+        <Button
+            android:id="@+id/test5_btn6"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginTop="10dp"
+            android:text="contains" />
+
+        <Button
+            android:id="@+id/test5_btn7"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginTop="10dp"
+            android:text="defaultIfEmpty" />
+
+        <Button
+            android:id="@+id/test5_btn8"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginTop="10dp"
+            android:text="sequenceEqual" />
+
+        <Button
+            android:id="@+id/test5_btn9"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginTop="10dp"
+            android:text="takeLastAndSkipLast" />
+
+        <Button
+            android:id="@+id/test4_btn10"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginTop="10dp"
+            android:text="ofType" />
+
+        <Button
+            android:id="@+id/test4_btn11"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginTop="10dp"
+            android:text="single" />
+    </LinearLayout>
+</ScrollView>
+

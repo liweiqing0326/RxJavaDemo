@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+
+        <Button
+            android:id="@+id/test8_btn4"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginTop="10dp"
+            android:text="repeat" />
+
+        <Button
+            android:id="@+id/test8_btn5"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginTop="10dp"
+            android:text="repeatWhen" />
+
+        <Button
+            android:id="@+id/test8_btn6"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginTop="10dp"
+            android:text="startWith" />
+
+
+        <Button
+            android:id="@+id/test8_btn9"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginTop="10dp"
+            android:text="merge" />
+
+        <Button
+            android:id="@+id/test8_btn10"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginTop="10dp"
+            android:text="mergeWith" />
+
+        <Button
+            android:id="@+id/test8_btn11"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginTop="10dp"
+            android:text="mergeDelayError" />
+
+        <Button
+            android:id="@+id/test8_btn12"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginTop="10dp"
+            android:text="switchOnNext" />
+
+        <Button
+            android:id="@+id/test8_btn13"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginTop="10dp"
+            android:text="switchMap" />
+
+        <Button
+            android:id="@+id/test8_btn14"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginTop="10dp"
+            android:text="zip" />
+
+        <Button
+            android:id="@+id/test8_btn15"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginTop="10dp"
+            android:text="zip2" />
+
+        <Button
+            android:id="@+id/test8_btn16"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginTop="10dp"
+            android:text="zip3" />
+
+        <Button
+            android:id="@+id/test8_btn17"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginTop="10dp"
+            android:text="zip4" />
+
+        <Button
+            android:id="@+id/test8_btn18"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginTop="10dp"
+            android:text="zipWith" />
+
+        <Button
+            android:id="@+id/test8_btn19"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginTop="10dp"
+            android:text="combineLatest" />
+
+        <Button
+            android:id="@+id/test8_btn20"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginTop="10dp"
+            android:text="join" />
+
+        <Button
+            android:id="@+id/test8_btn21"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginTop="10dp"
+            android:text="groupJoin123456" />
+
+    </LinearLayout>
+</ScrollView>
+

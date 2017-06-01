@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/test4_btn1"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginTop="10dp"
+            android:text="filter" />
+
+        <Button
+            android:id="@+id/test4_btn2"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginTop="10dp"
+            android:text="distinct" />
+
+        <Button
+            android:id="@+id/test4_btn3"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginTop="10dp"
+            android:text="distinct(keySelector)" />
+
+        <Button
+            android:id="@+id/test4_btn4"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginTop="10dp"
+            android:text="distinctUntilChanged" />
+
+        <Button
+            android:id="@+id/test4_btn5"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginTop="10dp"
+            android:text="distinctUntilChanged(keySelector)" />
+
+        <Button
+            android:id="@+id/test4_btn6"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginTop="10dp"
+            android:text="firstAndLast" />
+
+        <Button
+            android:id="@+id/test4_btn7"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginTop="10dp"
+            android:text="ignoreElements" />
+
+        <Button
+            android:id="@+id/test4_btn8"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginTop="10dp"
+            android:text="takeAndSkip" />
+
+        <Button
+            android:id="@+id/test4_btn9"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginTop="10dp"
+            android:text="takeLastAndSkipLast" />
+
+        <Button
+            android:id="@+id/test4_btn10"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginTop="10dp"
+            android:text="takeWhileAndSkipWhile" />
+
+        <Button
+            android:id="@+id/test4_btn11"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginTop="10dp"
+            android:text="takeUntilAndSkipUntil" />
+
+        <Button
+            android:id="@+id/test4_btn12"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginTop="10dp"
+            android:text="elementAt" />
+
+        <Button
+            android:id="@+id/test4_btn13"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginTop="10dp"
+            android:text="sample" />
+
+        <Button
+            android:id="@+id/test4_btn14"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginTop="10dp"
+            android:text="throttleFirst" />
+
+        <Button
+            android:id="@+id/test4_btn15"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginTop="10dp"
+            android:text="throttleLast" />
+
+        <Button
+            android:id="@+id/test4_btn16"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginTop="10dp"
+            android:text="debounce" />
+    </LinearLayout>
+</ScrollView>
+

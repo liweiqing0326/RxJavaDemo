@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/test9_btn1"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginTop="10dp"
+            android:text="timeout1" />
+
+        <Button
+            android:id="@+id/test9_btn21"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginTop="10dp"
+            android:text="timeout2" />
+
+        <Button
+            android:id="@+id/test9_btn2"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginTop="10dp"
+            android:text="timestamp" />
+
+        <Button
+            android:id="@+id/test9_btn3"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginTop="10dp"
+            android:text="timeInterval" />
+
+        <Button
+            android:id="@+id/test9_btn4"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginTop="10dp"
+            android:text="delay" />
+
+        <Button
+            android:id="@+id/test9_btn5"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginTop="10dp"
+            android:text="delaySubscription" />
+
+        <Button
+            android:id="@+id/test9_btn6"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginTop="10dp"
+            android:text="doOnEach" />
+
+        <Button
+            android:id="@+id/test9_btn7"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginTop="10dp"
+            android:text="doOnNext" />
+
+        <Button
+            android:id="@+id/test9_btn8"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginTop="10dp"
+            android:text="doOnSubscribe" />
+
+
+        <Button
+            android:id="@+id/test9_btn9"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginTop="10dp"
+            android:text="doOnUnSubscribe" />
+
+        <Button
+            android:id="@+id/test9_btn10"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginTop="10dp"
+            android:text="doOnError" />
+
+        <Button
+            android:id="@+id/test9_btn11"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginTop="10dp"
+            android:text="doOnComplete" />
+
+        <Button
+            android:id="@+id/test9_btn12"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginTop="10dp"
+            android:text="doOnTerminate" />
+
+        <Button
+            android:id="@+id/test9_btn13"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginTop="10dp"
+            android:text="finallyDo" />
+
+        <Button
+            android:id="@+id/test9_btn14"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginTop="10dp"
+            android:text="materialize" />
+
+        <Button
+            android:id="@+id/test9_btn15"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginTop="10dp"
+            android:text="serialize" />
+
+        <Button
+            android:id="@+id/test9_btn16"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginTop="10dp"
+            android:text="dematerialize" />
+
+        <Button
+            android:id="@+id/test9_btn17"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginTop="10dp"
+            android:text="using" />
+
+        <Button
+            android:id="@+id/test9_btn18"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginTop="10dp"
+            android:text="----" />
+
+        <Button
+            android:id="@+id/test9_btn19"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginTop="10dp"
+            android:text="----" />
+
+        <Button
+            android:id="@+id/test9_btn20"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginTop="10dp"
+            android:text="----" />
+
+
+    </LinearLayout>
+</ScrollView>
+

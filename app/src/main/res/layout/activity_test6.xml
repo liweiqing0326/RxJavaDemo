@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/test7_btn1"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginTop="10dp"
+            android:text="map" />
+
+        <Button
+            android:id="@+id/test7_btn2"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginTop="10dp"
+            android:text="cast" />
+
+
+        <Button
+            android:id="@+id/test7_btn8"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginTop="10dp"
+            android:text="flatMap1:转换" />
+
+        <Button
+            android:id="@+id/test7_btn9"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginTop="10dp"
+            android:text="flatMap2:过滤" />
+
+        <Button
+            android:id="@+id/test7_btn10"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginTop="10dp"
+            android:text="flatMap3:异步" />
+
+        <Button
+            android:id="@+id/test7_btn11"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginTop="10dp"
+            android:text="concatMap" />
+
+        <Button
+            android:id="@+id/test7_btn12"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginTop="10dp"
+            android:text="switchMap" />
+
+        <Button
+            android:id="@+id/test7_btn13"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginTop="10dp"
+            android:text="flatMapIterable1" />
+
+        <Button
+            android:id="@+id/test7_btn14"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginTop="10dp"
+            android:text="flatMapIterable2" />
+
+        <Button
+            android:id="@+id/test7_btn15"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginTop="10dp"
+            android:text="buffer" />
+
+        <Button
+            android:id="@+id/test7_btn16"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginTop="10dp"
+            android:text="window" />
+
+        <Button
+            android:id="@+id/test7_btn17"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginTop="10dp"
+            android:text="scan1" />
+
+        <Button
+            android:id="@+id/test7_btn18"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginTop="10dp"
+            android:text="scan2" />
+
+        <Button
+            android:id="@+id/test7_btn19"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginTop="10dp"
+            android:text="groupBy" />
+
+    </LinearLayout>
+</ScrollView>
+
